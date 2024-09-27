@@ -11,12 +11,18 @@
 1)	Go to Windows Features (Turn on and off)  
 2)	Checkmark Virtual Machine Platform and Windows Subsystem for Linux
 
+![get-content](https://github.com/GSecAwareness/ChatAI/blob/main/1%20features.PNG)
+
+
  
 
 
 3)	Go to PowerShell (as an administrator) and type wsl -install
 4)	Next, type wsl –update. This should install the WSL 2 Linux kernel 
+
 insert 1 wsl update picture
+
+
 5)	Next, set the default version to WSL 2, using the following commands:
 wsl –set-default-version 2
 insert 2 wsl default picture

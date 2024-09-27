@@ -8,27 +8,35 @@
 
 ## Initial Setup  
 
-1)	Go to Windows Features (Turn on and off)  
-2)	Checkmark Virtual Machine Platform and Windows Subsystem for Linux
+***Step 1***  
+
+Go to Windows Features (Turn on and off)  
+
+***Step 2***  
+
+Checkmark Virtual Machine Platform and Windows Subsystem for Linux  
 
 ![get-content](https://github.com/GSecAwareness/ChatAI/blob/main/1%20features.PNG)
 
+***Step 3***  
 
- 
+Go to PowerShell (as an administrator) and type wsl -install  
 
+***Step 4***  
 
-3)	Go to PowerShell (as an administrator) and type wsl -install
-4)	Next, type:  
+Next, type:  
 
-**wsl –update**  
+**wsl –update**    
 
 This should install the WSL 2 Linux kernel 
 
 ![get-content](https://github.com/GSecAwareness/ChatAI/blob/main/1%20wsl%20update.PNG)
 
-5)	Next, set the default version to WSL 2, using the following commands:  
+***Step 5***  
 
-**wsl –set-default-version 2**
+Next, set the default version to WSL 2, using the following commands:  
+
+**wsl –set-default-version 2**  
 
 ![get-content](https://github.com/GSecAwareness/ChatAI/blob/main/2%20wsl%20default.PNG)  
 

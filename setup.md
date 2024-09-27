@@ -18,14 +18,21 @@
 
 
 3)	Go to PowerShell (as an administrator) and type wsl -install
-4)	Next, type wsl –update. This should install the WSL 2 Linux kernel 
+4)	Next, type:  
 
-insert 1 wsl update picture
+**wsl –update**  
+
+This should install the WSL 2 Linux kernel 
+
+![get-content](https://github.com/GSecAwareness/ChatAI/blob/main/1%20wsl%20update.PNG)
+
+5)	Next, set the default version to WSL 2, using the following commands:  
+
+**wsl –set-default-version 2**
+
+![get-content](https://github.com/GSecAwareness/ChatAI/blob/main/2%20wsl%20default.PNG)  
 
 
-5)	Next, set the default version to WSL 2, using the following commands:
-wsl –set-default-version 2
-insert 2 wsl default picture
 
 
 

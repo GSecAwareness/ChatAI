@@ -1,6 +1,17 @@
-#### Now, let's install Linux using WSL and Ollama. Windows Subsystem for Linux (WSL) is a feature in Windows that allows you to run a full Linux environment directly within Windows, without the need for a virtual machine or dual-boot setup. This is especially useful for those who want to use Linux-based tools, such as Python or Bash, while keeping the Windows interface.
 
-#### By removing the dependency on virtual machines, WSL reduces overhead, leading to better performance and lower memory usage. We’ll be using WSL 2, the latest version, which includes a full Linux kernel, greatly improving compatibility with Docker containers—an essential part of our setup moving forward. I chose to use Ubuntu because of its compatability and support with the Windows WSL service, but there are multiple options in the Microsoft store to choose from.  
+# Introduction to Part 2  
+
+## Now, let's install Linux using WSL and Ollama. Windows Subsystem for Linux (WSL) is a feature in Windows that allows you to run a full Linux environment directly within Windows, without the need for a virtual machine or dual-boot setup. This is especially useful for those who want to use Linux-based tools, such as Python or Bash, while keeping the Windows interface. 
+
+## By removing the dependency on virtual machines, WSL reduces overhead, leading to better performance and lower memory usage. We’ll be using WSL 2, the latest version, which includes a full Linux kernel, greatly improving compatibility with Docker containers—an essential part of our setup moving forward. I chose to use Ubuntu because of its compatability and support with the Windows WSL service, but there are multiple options in the Microsoft store to choose from.  
+
+
+ <b>Table of Contents<b>
+   - [Initial Windows Setup](https://github.com/GSecAwareness/ChatAI/blob/main/setup.md)
+   - [Ubuntu and Ollama](https://github.com/GSecAwareness/ChatAI/blob/main/linux.md)
+   - [Docker and OpenWebUI](https://github.com/GSecAwareness/ChatAI/blob/main/part3.md)  
+---
+
 
 ***Step 1***  
 

@@ -1,5 +1,5 @@
 
-# Introduction to Part 2  
+# Ubuntu and Ollama  
 
 ## Now, let's install Linux using WSL and Ollama. Windows Subsystem for Linux (WSL) is a feature in Windows that allows you to run a full Linux environment directly within Windows, without the need for a virtual machine or dual-boot setup. This is especially useful for those who want to use Linux-based tools, such as Python or Bash, while keeping the Windows interface. 
 

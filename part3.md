@@ -1,6 +1,17 @@
-#### Next, let’s install OpenWebUI, a web-based interface that makes managing AI models like Llama 3.1 much easier. With OpenWebUI, you can load and interact with the model directly from your browser, eliminating the need for command-line inputs. This interface provides a user-friendly platform for configuring and experimenting with Llama 3.1. 
+# Docker and Open WebUI
+
+## Next, let’s install OpenWebUI, a web-based interface that makes managing AI models like Llama 3.1 much easier. With OpenWebUI, you can load and interact with the model directly from your browser, eliminating the need for command-line inputs. This interface provides a user-friendly platform for configuring and experimenting with Llama 3.1. 
 
 ![get-content](https://github.com/GSecAwareness/ChatAI/blob/main/docker-2752207-2285024-91679242.png)
+
+---
+
+ <b>Table of Contents<b>
+   - [Initial Windows Setup](https://github.com/GSecAwareness/ChatAI/blob/main/setup.md)
+   - [Ubuntu and Ollama](https://github.com/GSecAwareness/ChatAI/blob/main/linux.md)
+   - [Docker and OpenWebUI](https://github.com/GSecAwareness/ChatAI/blob/main/part3.md)  
+---
+
 
 ## Docker  
 
